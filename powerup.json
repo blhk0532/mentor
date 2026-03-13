@@ -3,9 +3,6 @@
     "description" : "Mentor AGI–powered Wix application that adds the Wix Mentor AI Assistant to your dashboard.",
     "cover" : "https://raw.githubusercontent.com/blhk0532/mentor/refs/heads/main/banner-wix.webp",
     "includes" : [
-        "panels", 
-        "models", 
-        "dashboard"
     ],
     "pages" : [
     ],
