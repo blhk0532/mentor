@@ -1,30 +1,23 @@
 {
     "name" : "Mentor",
-    "description" : "Mentor AGI–powered Wix application that adds the Mentor AI Assistant to your dashboard.",
-    "cover" : "https://raw.githubusercontent.com/blhk0532/mentor/main/_ignore/art/cover.jpg",
+    "description" : "Mentor AGI–powered Wix application that adds the Wix Mentor AI Assistant to your dashboard.",
+    "cover" : "https://raw.githubusercontent.com/blhk0532/mentor/refs/heads/main/banner-wix.webp",
     "includes" : [
-        "pages", 
+        "panels", 
         "models", 
-        "migrations"
+        "dashboard"
     ],
     "pages" : [
-        "pages/blog/index.blade.php",
-        "pages/blog/[Post:slug].blade.php"
     ],
     "tables" : [
-        "posts"
     ],
     "models" : [
-        "App\\Models\\Post"
     ],
     "run_after_install" : {
         "commands" : [
-            "migrate"
         ],
         "factories" : [
             {
-                "model" : "App\\Models\\Post",
-                "count" : "10"
             }
         ]
     }
