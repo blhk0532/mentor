@@ -1,5 +1,5 @@
 # 🚀 Mentor AGI Power-up
 
-This is the Mentor AGI powered Wix application that will add [Mentor](https://github.com)Mentor Ai Assistant to your dashboard. Learn more about Power-ups by visiting the Mentor Docs.
+This is the Mentor AGI–powered Wix application that adds the [Mentor](https://github.com) AI Assistant to your dashboard. To learn more about Power-ups and how they enhance your experience, visit the Mentor documentation.
 
-<p><img src="[https://blog.lulu.com/content/images/2024/11/013124-Wix-Announcement-Blog.png](https://blog.lulu.com/content/images/2024/11/013124-Wix-Announcement-Blog.png)" alt="mentor wix cover" /></p>
+<p><img src="[https://raw.githubusercontent.com/blhk0532/mentor/refs/heads/main/banner-wix.webp](https://raw.githubusercontent.com/blhk0532/mentor/refs/heads/main/banner-wix.webp)" alt="mentor wix cover" /></p>
